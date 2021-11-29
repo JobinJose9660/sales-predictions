@@ -10,7 +10,8 @@
 ##Dataset Information
  The aim is to build a predictive model and find out the outlet sales.
  
-1.#Item_Identifier 	Unique product ID
+1.Item_Identifier 	Unique product ID
+
 #Item_Weight 	Weight of product
 #Item_Fat_Content 	Whether the product is low fat or not
 #Item_Visibility 	The % of total display area of all products in a store allocated to the particular product
