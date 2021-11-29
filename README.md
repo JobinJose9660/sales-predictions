@@ -1,5 +1,5 @@
 # sales-predictions
-![](image/sales-prediction-social-media.png)
+![]()https://github.com/JobinJose9660/sales-predictions/blob/main/sales-prediction-social-media.png
  Sales Prediction Analysis - Regression
  
  
