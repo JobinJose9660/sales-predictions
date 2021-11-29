@@ -1,7 +1,7 @@
 # sales-predictions
  Sales Prediction Analysis - Regression
  
-Dataset Information
+#Dataset Information
  The aim is to build a predictive model and find out the sales of each product at a particular store.
 Item_Identifier 	Unique product ID
 Item_Weight 	Weight of product
@@ -18,7 +18,8 @@ Item_Outlet_Sales 	Sales of the product in the particulat store. This is the out
 
 
 
-Libraries
+#Libraries
+
 pandas
 matplotlib
 seaborn
@@ -29,6 +30,6 @@ Decision Tree
 Random Forest
 
 
-Mean Squared Error: 0.28
+#Mean Squared Error: 0.28
 
 Note: The Error metric is in log values. To convert to original values, use exponentiation.
