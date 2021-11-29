@@ -5,7 +5,7 @@
  
  
  
-**Dataset Information**
+##Dataset Information
  The aim is to build a predictive model and find out the outlet sales.
  
 1.#Item_Identifier 	Unique product ID
@@ -23,7 +23,7 @@
 
 
 
-**Libraries**
+##Libraries
 
 pandas
 matplotlib
@@ -35,6 +35,4 @@ Decision Tree
 Random Forest
 
 
-#Mean Squared Error: 0.28
 
-Note: The Error metric is in log values. To convert to original values, use exponentiation.
