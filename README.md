@@ -1,4 +1,5 @@
 # sales-predictions
+![](image/sales-prediction-social-media.png)
  Sales Prediction Analysis - Regression
  
  
