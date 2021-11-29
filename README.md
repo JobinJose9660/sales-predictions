@@ -1,6 +1,7 @@
 # sales-predictions
  Sales Prediction Analysis - Regression
-Dataset Informatio
+ 
+Dataset Information
  The aim is to build a predictive model and find out the sales of each product at a particular store.
 Item_Identifier 	Unique product ID
 Item_Weight 	Weight of product
@@ -13,7 +14,8 @@ Outlet_Establishment_Year 	The year in which store was established
 Outlet_Size 	The size of the store in terms of ground area covered
 Outlet_Location_Type 	The type of city in which the store is located
 Outlet_Type 	Whether the outlet is just a grocery store or some sort of supermarket
-Item_Outlet_Sales 	Sales of the product in the particulat store. This is the outcome variable to be predicted.
+Item_Outlet_Sales 	Sales of the product in the particulat store. This is the outcome variable to be predicted
+
 
 
 Libraries
