@@ -1,8 +1,12 @@
 # sales-predictions
  Sales Prediction Analysis - Regression
  
-#Dataset Information
+ 
+ 
+ 
+**Dataset Information**
  The aim is to build a predictive model and find out the outlet sales.
+ 
 #Item_Identifier 	Unique product ID
 #Item_Weight 	Weight of product
 #Item_Fat_Content 	Whether the product is low fat or not
@@ -18,7 +22,7 @@
 
 
 
-#Libraries
+**Libraries**
 
 pandas
 matplotlib
