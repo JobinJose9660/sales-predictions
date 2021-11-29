@@ -1,6 +1,8 @@
 # sales-predictions
 ![](https://github.com/JobinJose9660/sales-predictions/blob/main/sales-prediction-social-media.png)
- Sales Prediction Analysis - Regression
+
+ # Sales Prediction Analysis - Regression
+  In this project I'm aiming to predict the outlet sales using some feartures ,also explaining which the best machine learning model for the prediction and why?
  
  
  
