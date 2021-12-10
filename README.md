@@ -62,6 +62,10 @@ Data contains 8523 rows with 12 columns
 
 Above Histogram explains Most of the Outlet sales are in are happening in between 100 to 2000 dollars  in which 
 There is no sales over 8000 dollars 
+## Stastical Summary of Outlet_Sales
+![](https://github.com/JobinJose9660/sales-predictions/blob/main/1.PNG)
+We can see that average sales of the Items are 1794.3 , maximum Price of the Item is 13086.6,Minimum Price is 33.2 
+also there are outliers above 10000 and two above 12000 
 
 
 
