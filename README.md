@@ -33,6 +33,24 @@
 10.Outlet_Type -	Whether the outlet is just a grocery store or some sort of supermarket
 
 12.tem_Outlet_Sales -	Sales of the product in the particulat store. This is the outcome variable to be predicted
+## Libraries
+
+1.pandas
+
+2.matplotlib
+
+3.seaborn
+
+4.scikit-learn
+## Algorithms
+
+6.Linear Regression
+
+7.Decision Tree
+
+8.Random Forest
+
+9.KnNeighbors
 
 # DATA TYPES 
 1.RangeIndex: 8523 entries, 0 to 8522
@@ -94,6 +112,61 @@ also there are outliers above 10000 and two above 12000
 ## Scaling
 1. Scaling of numerical values are done with Standarscalar() funciton
 ![](https://github.com/JobinJose9660/sales-predictions/blob/main/9.PNG)
+
+# Prediction using Machine learning Model
+## Error calculation matrixes
+ 1.mae = mean_absolute_error(y_true, y_pred)
+ 2. mse = mean_squared_error(y_true, y_pred)
+  3.rmse = np.sqrt(mean_squared_error(y_true, y_pred))
+  4.r2 = r2_score(y_true, y_pred)
+
+ ## Linear Regresssion
+    ## Train Scores
+1.scores: MAE: 739.5459094493116, 
+2.MSE: 975956.8800610695, 
+3.RMSE: 987.9052991360404,   
+4.R2: 0.6702241974534979
+## Testing Scores
+1.scores: MAE: 4399928590710320.0, 
+2.MSE: 3.186132127612579e+31, 
+3.RMSE: 5644583357177551.0,   
+4.R2: -1.1548236158716282e+25
+
+1.Here we can see that there is huge difference between R2 scores of test and train score data, so we can say that the model has High Bias and Variance
+
+## Prediction and modeling using Dummy Regressor
+  ## Training Scores
+1.scores: MAE: 1360.2184410159132, 
+2.MSE: 2959455.7045265585, 
+3.RMSE: 1720.306863477141,   
+4.R2: 0.0
+## Testing Scores
+1.scores: MAE: 1326.121044678208, 
+2.MSE: 2772144.4627103633, 
+3.RMSE: 1664.9758144520788,   
+4.R2: -0.004772483978719766
+
+## Regularization and Tuning the model using KnnRegressor by finding the best value of K-Neigbors 
+![](https://github.com/JobinJose9660/sales-predictions/blob/main/10.PNG)
+1.The best value of K-Neigbors = 19
+## Training Scores
+1.scores: MAE: 771.9520539094922, 
+2.MSE: 1161051.0387542255, 
+3.RMSE: 1077.5207834442106,   
+4.R2: 0.6076808863946266
+## Testing Scores
+1.scores: MAE: 767.5310794684976, 
+2.MSE: 1189002.6418443376, 
+3.RMSE: 1090.4139772785095,   
+4.R2: 0.5690422508734834
+5.When I used KNeighborsRegressor method  with best K-N neighbor to tune the data we can see scores changed become closer
+
+
+
+
+
+
+
 
 
 
