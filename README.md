@@ -55,8 +55,13 @@
 Data contains 8523 rows with 12 columns 
 'Target column is 'Item_Outlet_Sales
 
-# UNIVARIATE ANALYSIS
+# UNIVARIATE ANALYSIS - Analysis of features
 ![](https://github.com/JobinJose9660/sales-predictions/blob/main/1.PNG)
+
+Above Histogram explains Most of the Outlet sales are in are happening in between 100 to 2000 dollars  in which 
+There is no sales over 8000 dollars 
+![image](https://user-images.githubusercontent.com/92699902/145532977-8909437b-22e5-4f78-b503-9ac1ae491552.png)
+
 
 
 
