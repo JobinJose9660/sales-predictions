@@ -34,27 +34,29 @@
 
 12.tem_Outlet_Sales -	Sales of the product in the particulat store. This is the outcome variable to be predicted
 
-# DATA INFORMATION
+# DATA TYPES 
 1.RangeIndex: 8523 entries, 0 to 8522
 2 .Data columns (total 12 columns):
- ##  Column                     Non-Null Count  Dtype  
+ #Column                     Non-Null Count  Dtype  
 ---  ------                     --------------  -----  
- 1.  Item_Identifier            8523 non-null   object 
- 2.  Item_Weight                7060 non-null   float64
- 3.  Item_Fat_Content           8523 non-null   object 
- 4.  Item_Visibility            8523 non-null   float64
- 5.   Item_Type                  8523 non-null   object 
- 6.   Item_MRP                   8523 non-null   float64
- 7.  Outlet_Identifier          8523 non-null   object 
- 8.  Outlet_Establishment_Year  8523 non-null   int64  
- 9.   Outlet_Size                6113 non-null   object 
- 10.  Outlet_Location_Type       8523 non-null   object 
- 11.  Outlet_Type                8523 non-null   object 
- 12 Item_Outlet_Sales          8523 non-null   float64
+ 1.  Item_Identifier         -   8523 - non-null   object 
+ 3.  Item_Weight             -   7060 -  non-null   float64
+ 4.  Item_Fat_Content         -  8523 -  non-null   object 
+ 5.  Item_Visibility            8523 -  non-null   float64
+ 6.   Item_Type                  8523 -  non-null   object 
+ 7.   Item_MRP                   8523 -  non-null   float64
+ 8.  Outlet_Identifier          8523-  non-null   object 
+ 9.  Outlet_Establishment_Year  852 -  non-null   int64  
+ 10.   Outlet_Size                6113 - non-null   object 
+ 11.  Outlet_Location_Type       8523 - non-null   object 
+ 12.  Outlet_Type                8523 - non-null   object 
+ 12 Item_Outlet_Sales          8523 - non-null   float64
 
 Data contains 8523 rows with 12 columns 
+'Target column is 'Item_Outlet_Sales
 
 # UNIVARIATE ANALYSIS
+
 
 
 
