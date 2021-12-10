@@ -60,19 +60,22 @@ Data contains 8523 rows with 12 columns
 ## Distribution of Outlet_Sales
 ![](https://github.com/JobinJose9660/sales-predictions/blob/main/1.PNG)
 
-Above Histogram explains Most of the Outlet sales are in are happening in between 100 to 2000 dollars  in which 
+1.Above Histogram explains Most of the Outlet sales are in are happening in between 100 to 2000 dollars  in which 
 There is no sales over 8000 dollars 
 ## Stastical Summary of Outlet_Sales
 ![](https://github.com/JobinJose9660/sales-predictions/blob/main/1.PNG)
-We can see that average sales of the Items are 1794.3 , maximum Price of the Item is 13086.6,Minimum Price is 33.2 
+1.We can see that average sales of the Items are 1794.3 , maximum Price of the Item is 13086.6,Minimum Price is 33.2 
 also there are outliers above 10000 and two above 12000 
 
 ## Corelation Analysis
 ![](https://github.com/JobinJose9660/sales-predictions/blob/main/2.PNG)
-We can see outlet sales is highly corelated to Item MRP, that means Item MRP plays great role in  predicting sales price , Features such as Item Visibility ,Item Year have negative correlation with sales 
+1.We can see outlet sales is highly corelated to Item MRP, that means Item MRP plays great role in  predicting sales price , Features such as Item Visibility ,Item Year have negative correlation with sales 
 ## How Item_MRP related to Outlet Sales
 ![](https://github.com/JobinJose9660/sales-predictions/blob/main/3.PNG)
-The scatter plot clearly explains Positive correlation, which means when Item MRP increases Outlet sales increases
+1.The scatter plot clearly explains Positive correlation, which means when Item MRP increases Outlet sales increases
+## Analysis of Outlet_sales and Outlet Stores
+![](https://github.com/JobinJose9660/sales-predictions/blob/main/6.PNG)
+1. we can see supermarket Type 3 has more sales than all other type of stores
 
 
 
