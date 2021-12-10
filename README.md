@@ -86,7 +86,7 @@ There is no sales over 8000 dollars
 also there are outliers above 10000 and two above 12000 
 
 ## Corelation Analysis
-![](https://github.com/JobinJose9660/sales-predictions/blob/main/2.PNG)
+![]()
 1.We can see outlet sales is highly corelated to Item MRP, that means Item MRP plays great role in  predicting sales price , Features such as Item Visibility ,Item Year have negative correlation with sales 
 ## How Item_MRP related to Outlet Sales
 ![](https://github.com/JobinJose9660/sales-predictions/blob/main/3.PNG)
