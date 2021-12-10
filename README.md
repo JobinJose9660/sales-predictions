@@ -206,7 +206,7 @@ We can see from the scatterplot the prediction are highly showing positive corre
 7. DecisionTreeRegressor Model will be more useful for predicting Sales 
 
 ## Powerpoint explanation can be found 
-[](https://github.com/JobinJose9660/sales-predictions/blob/main/Project%20Report%20Presentation)
+[presentation please navigate this linl](https://drive.google.com/file/d/1WvZF4dSjt8K-2Nqj5K9_T8nTrrsaSLeF/view?usp=drive_web)
 
 
 
