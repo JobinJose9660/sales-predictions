@@ -115,10 +115,10 @@ also there are outliers above 10000 and two above 12000
 
 # Prediction using Machine learning Model
 ## Error calculation matrixes
- 1.mae = mean_absolute_error(y_true, y_pred)
+ 1. mae = mean_absolute_error(y_true, y_pred)
  2. mse = mean_squared_error(y_true, y_pred)
-  3.rmse = np.sqrt(mean_squared_error(y_true, y_pred))
-  4.r2 = r2_score(y_true, y_pred)
+  3. rmse = np.sqrt(mean_squared_error(y_true, y_pred))
+  4. r2 = r2_score(y_true, y_pred)
 
  ## Linear Regresssion
     ## Train Scores
