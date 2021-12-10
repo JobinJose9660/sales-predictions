@@ -77,7 +77,23 @@ also there are outliers above 10000 and two above 12000
 ![](https://github.com/JobinJose9660/sales-predictions/blob/main/6.PNG)
 1. we can see supermarket Type 3 has more sales than all other type of stores
 
+# Trian Test split
+1. Date has been seperated into feature columsn and Target columns('Outlet_Sales)
+2. Tp prevent data leakage train test split has been done
 
+
+# Preprocessing
+## Missing Values
+1 . Missing values in categorical columns are filled using SimpleImputer with 'Most- Frequent' Statergy
+2. Missing values in numerica columns are filled using SimpleImputer with 'Mean'statergy
+
+## Ordinal columns
+1. Column 'OutleT-Size' values small , medium and High are changed to 0,1,2 respectively 
+## Nominal columns
+1.Nominal columns are converted using Onehot encoder () function
+## Scaling
+1. Scaling of numerical values are done with Standarscalar() funciton
+![](https://github.com/JobinJose9660/sales-predictions/blob/main/9.PNG)
 
 
 
