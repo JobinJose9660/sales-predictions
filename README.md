@@ -1,8 +1,8 @@
 # sales-predictions
 ![](https://github.com/JobinJose9660/sales-predictions/blob/main/sales-prediction-social-media.png)
 
- # Sales Prediction Analysis - Regression
-  In this project I'm aiming to predict the outlet sales using some feartures ,also explaining which the best machine learning model for the prediction and why?
+ # Sales Prediction Analysis -  Linear Regression
+  In this project I'm aiming to predict the Sales of the product in the particulat store (Item_Outlet_Sales) by analsyzing the features associated for the prediction of Sales,  also explanning which predictive model can be used for prediction and which model is the best ,by comparing different metrics
  
  
  
@@ -52,7 +52,7 @@
 
 9.KnNeighbors
 
-# DATA TYPES 
+# DATA TYPE info 
 1.RangeIndex: 8523 entries, 0 to 8522
 2 .Data columns (total 12 columns):
  #Column                     Non-Null Count  Dtype  
@@ -205,6 +205,8 @@ We can see from the scatterplot the prediction are highly showing positive corre
 6. So I’m recommending DecisonTreeRegressor Over Linear Regression
 7. DecisionTreeRegressor Model will be more useful for predicting Sales 
 
+## Powerpoint explanation can be found 
+[](https://github.com/JobinJose9660/sales-predictions/blob/main/Project%20Report%20Presentation)
 
 
 
