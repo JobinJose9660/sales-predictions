@@ -56,6 +56,7 @@ Data contains 8523 rows with 12 columns
 'Target column is 'Item_Outlet_Sales
 
 # UNIVARIATE ANALYSIS
+![](https://github.com/JobinJose9660/sales-predictions/blob/main/1.PNG)
 
 
 
